@@ -1,0 +1,3 @@
+Today is James birthday and he treats his friends icecream. He bought all his friend one icecream each.
+But there is an offer that day that he can claim another icecream if he has three wrappers. So how 
+much icecream he has to buy to treat each friend one more. 
